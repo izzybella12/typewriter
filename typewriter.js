@@ -13,4 +13,3 @@ if (timeIncremented !==0) {
     console.log('\n');
   }, timeIncremented)
 };
-
